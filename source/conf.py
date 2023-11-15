@@ -10,7 +10,7 @@ extensions = [
     "sphinx.ext.intersphinx",
     "sphinx.ext.napoleon",
     "sphinx.ext.mathjax",
-    #"myst_nb",
+    "myst_nb",
 ]
 
 myst_enable_extensions = ["dollarmath", "colon_fence"]
